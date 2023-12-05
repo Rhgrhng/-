@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "入门知识整和练习/1.0.0": {
+        "runtime": {
+          "入门知识整和练习.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "入门知识整和练习/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

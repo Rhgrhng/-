@@ -1,0 +1,15 @@
+D:\c#\c#项目\入门知识整和练习\bin\Debug\net6.0\入门知识整和练习.exe
+D:\c#\c#项目\入门知识整和练习\bin\Debug\net6.0\入门知识整和练习.deps.json
+D:\c#\c#项目\入门知识整和练习\bin\Debug\net6.0\入门知识整和练习.runtimeconfig.json
+D:\c#\c#项目\入门知识整和练习\bin\Debug\net6.0\入门知识整和练习.dll
+D:\c#\c#项目\入门知识整和练习\bin\Debug\net6.0\入门知识整和练习.pdb
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.csproj.AssemblyReference.cache
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.AssemblyInfoInputs.cache
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.AssemblyInfo.cs
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.csproj.CoreCompileInputs.cache
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.dll
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\refint\入门知识整和练习.dll
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.pdb
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\入门知识整和练习.genruntimeconfig.cache
+D:\c#\c#项目\入门知识整和练习\obj\Debug\net6.0\ref\入门知识整和练习.dll
